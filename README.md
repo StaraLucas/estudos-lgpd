@@ -7,7 +7,7 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 ## 📅 Progresso
 
 - [x] Aula 1 - Introdução à LGPD
-- [x] Aula 2 - Princípios da LGPD
+- [ ] Aula 2 - Princípios da LGPD
 - [ ] Aula 3 - Direitos dos titulares
 - [ ] Aula 4 - Agentes de tratamento
 - [ ] Aula 5 - Bases legais
