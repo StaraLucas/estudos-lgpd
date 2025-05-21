@@ -26,6 +26,17 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 
 ---
 
+## 📦 Recursos Complementares
+
+📚 Consulte o arquivo de [Referências e materiais de apoio](./referencias.md) para acessar:
+
+- Links oficiais da LGPD  
+- Cartilhas e PDFs  
+- Cursos gratuitos  
+- Leitura recomendada
+
+---
+
 ## 📁 Estrutura
 
 ```bash
