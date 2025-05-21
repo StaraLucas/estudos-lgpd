@@ -23,3 +23,16 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 - Relacionar aspectos legais com práticas técnicas de segurança e privacidade
 - Desenvolver uma base sólida sobre proteção de dados pessoais para aplicação em contextos reais
 - Integrar conhecimentos legais com a atuação ética em cibersegurança e forense digital
+
+---
+
+## 📁 Estrutura
+
+```bash
+.
+├── notas/
+│   ├── 01-introducao.md
+│   ├── 02-fundamentos.md
+│   └── ...
+├── referencias.md
+└── README.md
