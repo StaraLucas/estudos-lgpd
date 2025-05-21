@@ -1,11 +1,16 @@
 # Aula 2 - Fundamentos e Princípios da LGPD
 
-## Fundamentos da LGPD
+## 📚 Fundamentos da LGPD
 
 A LGPD está baseada em fundamentos que justificam a proteção de dados pessoais no Brasil:
 
-- Respeito à privacidade
-- Autodeterminação informativa
+### 🔐 Respeito à privacidade
+Reconhece que a privacidade é um direito fundamental. 
+
+O tratatamento de dados deve garantir que as informações pessoais do titualr sejam usadas de forma responsável, segura e com consentimento, sempre que necessário.
+
+### 👤 Autodeterminação informativa
+
 - Liberdade de expressão, informação, comunicação e opinião
 - Inviolabilidade da intimidade, honra e imagem
 - Desenvolvimento econômico e tecnológico
