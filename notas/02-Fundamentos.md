@@ -6,9 +6,9 @@ Nesta aula, o foco é compreender os **fundamentos legais** e os **princípios o
 
 ## 📌 Índice
 
-- [⚖️ Fundamentos da LGPD]([##fundamentos-da-lgpd](https://github.com/StaraLucas/estudos-lgpd/edit/main/notas/02-Fundamentos.md#-fundamentos-da-lgpd))
-- [🧱 Princípios da LGPD](##princípios-da-lgpd)
-- [📎 Referências complementares](##referências-complementares)
+- [📚 Fundamentos da LGPD](#fundamentos-da-lgpd)
+- [🧱 Princípios da LGPD](#princípios-da-lgpd)
+- [📎 Referências complementares](#referências-complementares)
 
 ## 📚 Fundamentos da LGPD
 
