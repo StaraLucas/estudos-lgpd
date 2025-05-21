@@ -1,4 +1,14 @@
-# Aula 2 - Fundamentos e Princípios da LGPD
+# 📘 Aula 2 - Fundamentos e Princípios da LGPD
+
+Nesta aula, o foco é compreender os **fundamentos legais** e os **princípios orientadores** da LGPD. Ambos são essenciais para interpretar e aplicar corretamente a legislação de proteção de dados no Brasil.
+
+---
+
+## 📌 Índice
+
+- [⚖️ Fundamentos da LGPD](#fundamentos-da-lgpd)
+- [🧱 Princípios da LGPD](#princípios-da-lgpd)
+- [📎 Referências complementares](#referências-complementares)
 
 ## 📚 Fundamentos da LGPD
 
@@ -51,6 +61,16 @@ O consumidor tem o direito de saber como seus dados são usados, com proteção 
 ### 🧑‍⚖️ Direitos humanos, livre desenvolvimento da personalidade, dignidade e exercício da cidadania
 O uso de dados deve fortalecer os direitos humanos, não violá-los. 
 A proteção de daos é um instrumento para garantir cidadania plena e dignidade da pessoa. 
+
+---
+
+## 🧱 Princípios da LGPD
+
+Os princípios estão no **Art. 6º da LGPD** e são os **pilares que orientam o tratamento de dados pessoais**, assegurando responsabilidade, ética e transparência nas atividades de coleta, armazenamento e uso de dados.
+
+---
+
+### 🎯 Finalidade  
 
 ---
 
