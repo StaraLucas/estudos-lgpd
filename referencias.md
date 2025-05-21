@@ -36,7 +36,7 @@ Este arquivo reúne links úteis e materiais complementares utilizados durante o
 
 ## 💡 Dicas para aprofundar
 
-- Leia a LGPD com calma, em blocos (como você já está fazendo)
+- Leia a LGPD com calma, em blocos 
 - Relacione cada princípio com casos práticos ou situações do cotidiano
 - Busque sempre fontes **oficiais e confiáveis**
 
