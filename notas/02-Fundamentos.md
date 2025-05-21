@@ -6,7 +6,7 @@ Nesta aula, o foco é compreender os **fundamentos legais** e os **princípios o
 
 ## 📌 Índice
 
-- [📚 Fundamentos da LGPD](#fundamentos-da-lgpd)
+- [⚖️ Fundamentos da LGPD](#fundamentos-da-lgpd)
 - [🧱 Princípios da LGPD](#princípios-da-lgpd)
 - [📎 Referências complementares](#referências-complementares)
 
