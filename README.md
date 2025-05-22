@@ -20,6 +20,23 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 
 ---
 
+## 📈 Progresso Geral
+
+**2 de 8 aulas concluídas – 25% completo**
+
+🟩🟩⬜⬜⬜⬜⬜⬜ 25%
+
+---
+
+## 📘 Legenda dos Status
+
+| Emoji | Status          | Significado                                           |
+|-------|------------------|-------------------------------------------------------|
+| ✅    | Concluída         | Aula finalizada e estudada                           |
+| 🔄    | Em andamento      | Aula está em progresso de estudo                     |
+| ⏹️    | Não iniciado      | Estudo ainda não foi iniciado                        |
+| 🗓️    | Data de conclusão | Indica quando a aula foi concluída (quando houver)  |
+
 ## 🧠 Objetivo
 
 - Compreender a LGPD e seus impactos na segurança da informação
