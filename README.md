@@ -10,13 +10,13 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 | Aula | Status | Data de Conclusão |
 |------|--------|-------------------|
 | 📘 Aula 1 - [Introdução à LGPD](./notas/01-introducao.md) | ✅ **Concluída** | 🗓️ 20/05/2025 |
-| 📘 Aula 2 - Fundamentos e Princípios da LGPD | ✅ **Concluída** | 🗓️ 21/05/2025 |
-| 📘 Aula 3 - Direitos dos Titulares de Dados | 🔄 **Em andamento** | ⏳ — |
-| 📘 Aula 4 - Bases Legais para o Tratamento de Dados | ⏹️ **Não iniciado** | — |
-| 📘 Aula 5 - Agentes de Tratamento e suas Responsabilidades | ⏹️ **Não iniciado** | — |
-| 📘 Aula 6 - Segurança da Informação e Boas Práticas | ⏹️ **Não iniciado** | — |
-| 📘 Aula 7 - Penalidades e Fiscalização | ⏹️ **Não iniciado** | — |
-| 📘 Aula 8 - Casos Práticos e Aplicações da LGPD | ⏹️ **Não iniciado** | — |
+| 📘 Aula 2 - [Fundamentos e Princípios da LGPD](./notas/02-fundamentos.md)| ✅ **Concluída** | 🗓️ 21/05/2025 |
+| 📘 Aula 3 - [Direitos dos Titulares de Dados](./notas/03-direitos.md) | 🔄 **Em andamento** | ⏳ — |
+| 📘 Aula 4 - [Bases Legais para o Tratamento de Dados](./notas/04-bases-legais.md) | ⏹️ **Não iniciado** | — |
+| 📘 Aula 5 - [Agentes de Tratamento e suas Responsabilidades](./notas/05-agentes.md) | ⏹️ **Não iniciado** | — |
+| 📘 Aula 6 - [Segurança da Informação e Boas Práticas](./notas/06-seguranca.md) | ⏹️ **Não iniciado** | — |
+| 📘 Aula 7 - [Penalidades e Fiscalização](./notas/07-penalidades.md) | ⏹️ **Não iniciado** | — |
+| 📘 Aula 8 - [Casos Práticos e Aplicações da LGPD](./notas/08-casos-praticos.md) | ⏹️ **Não iniciado** | — |
 
 ---
 
