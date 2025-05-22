@@ -7,29 +7,19 @@ Este arquivo reúne links úteis e materiais complementares utilizados durante o
 ## 📄 Leis e Regulamentações Oficiais
 
 - [📜 LGPD - Lei nº 13.709/2018 (Texto oficial - Planalto)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)  
-  Texto integral da LGPD no site oficial do Governo Federal.
+  Texto integral da LGPD no site oficial do Governo Federal, com todos os artigos e dispositivos legais.
 
-- [📘 Código de Defesa do Consumidor - Lei nº 8.078/1990](https://www.planalto.gov.br/ccivil_03/leis/l8078.htm)
-  Base legal importante para entender a relação entre proteção de dados e direitos do consumidor.
+- [📘 Código de Defesa do Consumidor - Lei nº 8.078/1990](https://www.planalto.gov.br/ccivil_03/leis/l8078.htm)  
+  Lei complementar à LGPD, útil para entender a proteção de dados nas relações de consumo.
 
-- [📘 Texto da LGPD em linguagem cidadã (Senado)](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=132046)  
-  Versão simplificada da LGPD voltada para cidadãos, com explicações mais acessíveis sobre os principais pontos da lei.
+- [📚 Cartilha sobre a Lei Geral de Proteção de Dados (Senado Federal)](https://www2.senado.leg.br/bdsf/handle/id/685515)  
+  Publicação do Senado com linguagem acessível, explicando conceitos da LGPD, obrigações legais e direitos dos titulares.
 
-- [📖 Guia de Boas Práticas da ANPD (Autoridade Nacional de Proteção de Dados)](https://www.gov.br/anpd/pt-br/assuntos/guias-e-orientacoes)  
-  Publicações e orientações oficiais da ANPD sobre conformidade, segurança e governança de dados.
+- [📘 Guia de Boas Práticas - Governo Digital (Ministério da Economia)](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/guias-e-modelos/pagina_guias_e_modelos)  
+  Documento oficial com diretrizes e modelos para implementação da LGPD em órgãos públicos e organizações privadas.
 
-- [🧩 Cartilha LGPD para organizações (Câmara dos Deputados)](https://www2.camara.leg.br/legin/fed/lei/2018/lei-13709-14-agosto-2018-/anexos/cartilha-lgpd.pdf)  
-  Documento ilustrado com explicações práticas voltadas a empresas, entidades públicas e profissionais da área.
-
----
-
-## 🧭 Guias e Publicações Oficiais
-
-- [📄 Guia da LGPD para o Cidadão - ANPD (PDF)](https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/guia-orientativo-para-o-cidadao.pdf)  
-  Material introdutório da ANPD explicando os principais direitos dos titulares.
-
-- [📑 Guia de Boas Práticas da LGPD - NIC.br](https://cartilha.cert.br/lgpd/)  
-  Uma cartilha prática sobre como aplicar a LGPD no dia a dia das empresas e profissionais.
+- [📖 Livro "Proteção de Dados Pessoais no Brasil" (Câmara dos Deputados)](https://www.camara.leg.br/assessoria-de-imprensa/1114703-camara-dos-deputados-lanca-o-livro-protecao-de-dados-pessoais-no-brasil/)  
+  Publicação institucional abordando aspectos técnicos, jurídicos e políticos da proteção de dados no Brasil, com foco na atuação da ANPD.
 
 ---
 
