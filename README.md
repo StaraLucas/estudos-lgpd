@@ -9,7 +9,7 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 
 | Aula | Status | Data de Conclusão |
 |------|--------|-------------------|
-| 📘 Aula 1 - Introdução à LGPD | ✅ **Concluída** | 🗓️ 20/05/2025 |
+| 📘 Aula 1 - [Introdução à LGPD](./notas/01-introducao.md) | ✅ **Concluída** | 🗓️ 20/05/2025 |
 | 📘 Aula 2 - Fundamentos e Princípios da LGPD | ✅ **Concluída** | 🗓️ 21/05/2025 |
 | 📘 Aula 3 - Direitos dos Titulares de Dados | 🔄 **Em andamento** | ⏳ — |
 | 📘 Aula 4 - Bases Legais para o Tratamento de Dados | ⏹️ **Não iniciado** | — |
