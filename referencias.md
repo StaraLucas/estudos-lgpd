@@ -28,8 +28,22 @@ Este arquivo reúne links úteis e materiais complementares utilizados durante o
 - [🎓 Curso LGPD (Edune Cursos)](https://edune.com.br/)  
   Curso que estou utilizando como base nos meus estudos iniciais.
 
-- [🎓 Curso LGPD (Gratuito - Senado Federal)](https://educacaoadistancia.senado.leg.br/course/view.php?id=574)  
-  Curso introdutório online gratuito oferecido pelo Senado Federal.
+## 🎓 Cursos gratuitos sobre LGPD
+
+- **[LGPD para você – SEST SENAT](https://digital.sestsenat.org.br/cursos/lgpd-para-voce)**  
+  Curso introdutório com 10 horas de carga horária, totalmente online e gratuito. Aborda os princípios fundamentais da LGPD, direitos dos titulares e responsabilidades dos agentes de tratamento de dados. Inclui certificado de conclusão.
+
+- **[Lei Geral de Proteção de Dados – SEST SENAT](https://digital.sestsenat.org.br/cursos/lei-geral-de-protecao-de-dados-lgpd)**  
+  Curso mais aprofundado, com 30 horas de carga horária, também gratuito e online. Explora temas como segurança da informação, bases legais para o tratamento de dados e conformidade com a LGPD. Certificado disponível após conclusão.
+
+- **[Introdução à Lei Brasileira de Proteção de Dados Pessoais – Escola Virtual Gov](https://www.escolavirtual.gov.br/curso/153/governoes)**  
+  Oferecido pela ENAP, com carga horária de 10 horas. Destinado a agentes públicos, mas aberto ao público geral. Aborda fundamentos, princípios, direitos dos titulares e responsabilidades dos agentes de tratamento. Certificado disponível.
+
+- **[LGPD para Gestão Pública – Sebrae](https://sebrae.com.br/sites/PortalSebrae/cursosonline/lgpd-para-gestao-publica%2C61a37a2454ed7810VgnVCM1000001b00320aRCRD)**  
+  Curso de 6 horas focado em gestores públicos, abordando a aplicação da LGPD no setor público e como adaptar processos para garantir a proteção de dados pessoais. Certificado gratuito.
+
+- **[Proteção de Dados Pessoais na Câmara dos Deputados](https://www.camara.leg.br/assessoria-de-imprensa/1146537-camara-lanca-curso-online-protecao-de-dados-pessoais-na-camara-dos-deputados/)**  
+  Curso autoinstrucional de 12 horas, abordando como a Câmara dos Deputados aplica a LGPD em seus processos internos. Aberto ao público geral, com certificado disponível.
 
 ---
 
