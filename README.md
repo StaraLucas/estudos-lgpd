@@ -6,14 +6,17 @@ Este repositório documenta meus estudos sobre a LGPD, com base no curso da Edun
 
 ## 📅 Progresso
 
-- [x] Aula 1 - Introdução à LGPD *(concluída em 20/05/2025)*
-- [x] Aula 2 - Fundamentos e Princípios da LGPD *(concluída em 21/05/2025)*
-- [ ] Aula 3 - Direitos dos Titulares de Dados
-- [ ] Aula 4 - Bases legais para o Tratamento de Dados
-- [ ] Aula 5 - Agentes de Tratamento e suas Responsabilidades
-- [ ] Aula 6 - Segurança da Informação e Boas Práticas
-- [ ] Aula 7 - Penalidades e Fiscalização
-- [ ] Aula 8 - Casos Práticos e Aplicações da LGPD
+
+| Aula | Status | Data de Conclusão |
+|------|--------|-------------------|
+| 📘 Aula 1 - Introdução à LGPD | ✅ **Concluída** | 🗓️ 20/05/2025 |
+| 📘 Aula 2 - Fundamentos e Princípios da LGPD | ✅ **Concluída** | 🗓️ 21/05/2025 |
+| 📘 Aula 3 - Direitos dos Titulares de Dados | 🔄 **Em andamento** | ⏳ — |
+| 📘 Aula 4 - Bases Legais para o Tratamento de Dados | ⏹️ **Não iniciado** | — |
+| 📘 Aula 5 - Agentes de Tratamento e suas Responsabilidades | ⏹️ **Não iniciado** | — |
+| 📘 Aula 6 - Segurança da Informação e Boas Práticas | ⏹️ **Não iniciado** | — |
+| 📘 Aula 7 - Penalidades e Fiscalização | ⏹️ **Não iniciado** | — |
+| 📘 Aula 8 - Casos Práticos e Aplicações da LGPD | ⏹️ **Não iniciado** | — |
 
 ---
 
