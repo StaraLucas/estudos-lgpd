@@ -6,7 +6,7 @@ Nesta aula, são apresentados os conceitos iniciais sobre a LGPD (Lei Geral de P
 
 ## 📌 Índice
 
-- [📖 O que é a LGPD?](#o-que-é-a-lgpd)
+- [O que é a LGPD?](#o-que-é-a-lgpd)
 - [🎯 Objetivos da LGPD](#objetivos-da-lgpd)
 - [🔍 O que são dados pessoais?](#o-que-são-dados-pessoais)
 - [🛡️ Dados pessoais sensíveis](#dados-pessoais-sensíveis)
