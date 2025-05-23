@@ -10,7 +10,7 @@ Nesta aula, são apresentados os conceitos iniciais sobre a LGPD (Lei Geral de P
 - [🎯 Objetivos da LGPD](#-objetivos-da-lgpd)
 - [🔍 O que são dados pessoais?](#o-que-são-dados-pessoais)
 - [🛡️ Dados pessoais sensíveis](#-dados-pessoais-sensíveis)
-- [🏢 Quem está sujeito à LGPD?](#quem-está-sujeito-à-lgpd)
+- [🏢 Quem está sujeito à LGPD?](#-quem-está-sujeito-à-lgpd)
 - [🧱 Princípios da LGPD](#princípios-da-lgpd)
 - [⚠️ Penalidades pelo descumprimento](#penalidades-pelo-descumprimento)
 - [🏛️ Autoridade Nacional de Proteção de Dados (ANPD)](#autoridade-nacional-de-proteção-de-dados-anpd)
