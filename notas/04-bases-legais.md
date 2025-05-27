@@ -19,65 +19,65 @@ Segundo a **LGPD (Art. 7º)**, **pelo menos uma** base legal deve ser identifica
 
 ---
 
-## 📑 As 10 bases legais da LGPD
+## 📚 As 10 bases legais da LGPD
 
-### 1. ✍️ Consentimento do titular
-Tratamento realizado com a autorizaão clara e explícita do titular.
-📝 Deve ser informado, específico e destacável. 
-
----
-
-### 2. 📄 Cumprimento de obrigação legal ou regulatória
-Quando o tratamento é necessário para atender a determinações legais.
-🔍 Exemplo: envio de dados ao fisco. 
+1. ✅ **Consentimento do titular**  
+Tratamento autorizado de forma livre, informada e inequívoca pelo titular.  
+🔐 Exemplo: aceite de uma política de privacidade ao preencher um formulário.
 
 ---
 
-### 3. 🤝 Execução de políticas públicas  
-Aplica-se ao tratamento feito por órgãos públicos no exercício de suas funções legais. 
+2. 🩺 **Cumprimento de obrigação legal ou regulatória**  
+Quando a lei exige o tratamento, independentemente do consentimento.  
+📄 Exemplo: envio de dados à Receita Federal por uma empresa.
 
 ---
 
-### 4. 📋 Realização de estudos por órgão de pesquisa
-Desde que, se possível, os dados estejam anonimizados. 
-🧪 Exemplo: estudos acadêmicos ou estatísticos. 
+3. 🏛️ **Execução de políticas públicas**  
+Dados usados por órgãos públicos para implementar políticas públicas previstas em leis ou regulamentos.  
+🏥 Exemplo: cadastro em programas de saúde pública.
 
 ---
 
-### 5. ⚖️ Execução de contrato ou de procedimentos preliminares
-Necessário para cumprir um contrato com o titular dos dados.
+4. ⚖️ **Realização de estudos por órgãos de pesquisa**  
+Desde que, sempre que possível, com anonimização dos dados pessoais.  
+🔬 Exemplo: estudos acadêmicos com base em dados estatísticos anonimizados.
+
+---
+
+5. ⚖️ **Execução de contrato ou de procedimentos preliminares**  
+Necessário para cumprir um contrato com o titular dos dados.  
 🔐 Exemplo: cadastro em uma plataforma digital.
 
 ---
 
-### 6. 🛡️ Exercício regular de direitos
-Para proteção em processos judiciais, administrativos ou arbitrais.
-📌 Exemplo: apresentar dados como prova em uma ação. 
+6. 🛡️ **Exercício de direitos em processos judiciais, administrativos ou arbitrais**  
+Garante o tratamento de dados necessários à defesa de direitos.  
+⚖️ Exemplo: uso de dados em uma contestação judicial.
 
 ---
 
-### 7. ❤️ Proteção da vida ou incolumidade física
-Usado em emergências ou situações que elvolvam risco a vida. 
-🏥 Exemplo: socorro médico.
+7. 🚑 **Proteção da vida ou da incolumidade física do titular ou de terceiros**  
+Quando o tratamento é necessário para preservar a vida.  
+🚨 Exemplo: coleta de dados de saúde em situação de emergência médica.
 
 ---
 
-### 8. 🧍‍♂️ Tutela da saúde
-Para procedimentos realizados por profissionais de saúde ou entidades sanitárias. 
-💉 Exemplo: atendimento em hospital. 
+8. 👥 **Tutela da saúde**  
+Tratamento por profissionais da saúde ou autoridades sanitárias, no interesse do paciente.  
+🏥 Exemplo: prontuário médico eletrônico compartilhado entre clínicas.
 
 ---
 
-### 9. 📊 Interesse legítimo do controlador
-Desde que não prevaleçam os direitos e liberdades do titular. 
-Requer avaliação criteriosa.
-💡 Exemplo: envio de e-mail marketing para clientes ativos. 
+9. 🏢 **Interesse legítimo do controlador ou de terceiros**  
+Desde que respeitados os direitos do titular.  
+📈 Exemplo: uso de dados para melhorar a experiência do usuário em um site.
 
 ---
 
-### 10. 🧾 Proteção ao crédito
-Autorizado para finalidades relacionadas à análise de crédito.
-🔍 Exemplo: consulta score ao crédito.
+10. 🧾 **Proteção do crédito**  
+Autoriza o uso de dados em sistemas de análise de crédito.  
+💳 Exemplo: inclusão em cadastros de proteção ao crédito como SPC ou Serasa.
 
 ---
 
