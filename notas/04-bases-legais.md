@@ -6,9 +6,9 @@ Nesta aula, abordamos as **10 bases legais previstas na LGPD**, que são os fund
 
 ## 📌 Índice
 
-- [📚 O que são bases legais?](#o-que-são-bases-legais)
-- [📑 As 10 bases legais da LGPD](#as-10-bases-legais-da-lgpd)
-- [📎 Referências complementares](#referências-complementares)
+- [📚 O que são bases legais?](#-o-que-são-bases-legais)
+- [📑 As 10 bases legais da LGPD](#-as-10-bases-legais-da-lgpd)
+- [📎 Referências complementares](#-referências-complementares)
 
 ---
 
